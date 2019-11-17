@@ -1,7 +1,8 @@
 # Junction-2019 Project submission
 
-Track:        Data Economics
-Challenges:   The DNA of Helsinki, Social Impact with Finland's Open Data
+Track: Data Economics
+
+Challenges: The DNA of Helsinki, Social Impact with Finland's Open Data
 
 
 ### Introduction
