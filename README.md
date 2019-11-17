@@ -4,6 +4,8 @@ Track: Data Economics
 
 Challenges: The DNA of Helsinki, Social Impact with Finland's Open Data
 
+Link to DEMO: https://app.powerbi.com/view?r=eyJrIjoiMmI1MzgxOWItMDNmMi00ZWY1LTk4YWQtNjYxMWFkMGUwZjczIiwidCI6IjlkOTc1MzBlLThmMjctNDEzNy1hMmE5LTVjYjRkY2YyNmYyZSIsImMiOjh9
+
 
 ### Introduction
 
