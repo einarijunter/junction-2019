@@ -20,7 +20,7 @@ Interacting with Hypercell-API was done using Python hosted on both Azure Notebo
 
 The Jupyter notebooks can be found from `notebooks` folder, while the Power BI visualization file is located in `Power BI` folder.
 
-Python code utilizes open source libraries:
+Python code utilizes common open source libraries:
 - numpy
 - pandas
 - requests
@@ -30,6 +30,8 @@ Python code utilizes open source libraries:
 - time
 - datetime
 - nest_asyncio
+
+The Machine Learning based forecasts were made using Facebook's `fbprophet` package for time-series.
 
 The Power BI visualization uses community Flowmap visualization from https://github.com/weiweicui/PowerBI-Flowmap/.
 
